@@ -17,6 +17,6 @@
 
 最后在readme.md里面写一个跳转 https://X-Y-Zhou.github.io/test_docv2/dev/ 的链接即可，具体代码在 README.md 中
 
-
+test_docv2是更新后较为标准的做法
 
 
