@@ -10,6 +10,7 @@ DelaySSAToolkit.jl is a tool developed on top of [JumpProcesses.jl](https://gith
 
 ## Features
 ## Features
+## Features
 
   - Various exact delay stochastic simulation algorithms are integrated;
   - Stochastic delay type is supported;
